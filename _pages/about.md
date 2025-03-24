@@ -11,7 +11,7 @@ redirect_from:
 I am a researcher in Alibaba Group.
 I obtained M.Res. in Informatics at the University of Edinburgh under the supervision of prof. [Shay Cohen](https://homepages.inf.ed.ac.uk/scohen/).
 Prior to that, I interned at the Hong Kong University of Science and Technology under the supervision of Dr. [Jie Fu](https://bigaidream.github.io/).
-I am interested in teaching agents to reason and plan by reinforcement learning.
+I am building agents by reinforcement learning.
 
  
 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJ1KiT3E3CHkitK-8XkwkeYKxup4GEJyV0SkLGZYQErzPnldBlEg2-H9TQ5J5s8C469VUrr_d909FGy-TM0ggoOTBa5Kl5IZZfzveAwzH0M36XHIe2e1XOypJvTv-2_00cE&user=1ml8-30AAAAJ) ｜ [GitHub](https://github.com/ChenmienTan) ｜ [Hugging Face](https://huggingface.co/ChenmieNLP) ｜ [Kaggle](https://www.kaggle.com/chenmientan) ｜ [X](https://twitter.com/ChenmienTan) ｜ [Zhihu](https://www.zhihu.com/people/tanchenmien)
