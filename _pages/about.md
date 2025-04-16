@@ -18,11 +18,11 @@ I am building agents by reinforcement learning.
 
 ## Selected Publications
 
-* Calibrating Reward Models with Chatbot Arena Scores  
-Xiao Zhu, Chenmien Tan, Pinzhen Chen, Rico Sennrich, Yanlin Zhang, and Hanxu Hu  
+* [CHARM: Calibrating Reward Models with Chatbot Arena Scores](https://arxiv.org/abs/2504.10045)  
+Xiao Zhu*, Chenmien Tan*, Pinzhen Chen, Rico Sennrich, Yanlin Zhang, and Hanxu Hu  
 *Under Review*
 
-* [Massive Editing for Large Language Models via Meta Learning](https://arxiv.org/pdf/2311.04661.pdf)  
+* [Massive Editing for Large Language Models via Meta Learning](https://arxiv.org/abs/2311.04661)  
 Chenmien Tan, Ge Zhang, and Jie Fu  
 *ICLR'24*
 
