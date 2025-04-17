@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher in Alibaba Group.
+I am an engineer in Alibaba Group.
 I obtained M.Res. in Informatics at the University of Edinburgh under the supervision of prof. [Shay Cohen](https://homepages.inf.ed.ac.uk/scohen/).
 Prior to that, I interned at the Hong Kong University of Science and Technology under the supervision of Dr. [Jie Fu](https://bigaidream.github.io/).
 I am building agents by reinforcement learning.
@@ -19,7 +19,7 @@ I am building agents by reinforcement learning.
 ## Selected Publications
 
 * [CHARM: Calibrating Reward Models with Chatbot Arena Scores](https://arxiv.org/abs/2504.10045)  
-Xiao Zhu*, Chenmien Tan*, Pinzhen Chen, Rico Sennrich, Yanlin Zhang, and Hanxu Hu  
+Xiao Zhu, Chenmien Tan, Pinzhen Chen, Rico Sennrich, Yanlin Zhang, and Hanxu Hu  
 *Under Review*
 
 * [Massive Editing for Large Language Models via Meta Learning](https://arxiv.org/abs/2311.04661)  
