@@ -14,7 +14,7 @@ Prior to that, I interned at the Hong Kong University of Science and Technology 
 My interest lies in training agentic large language models (LLMs) by reinforcement learning (RL).
 I lead the development of [RL2](https://github.com/ChenmienTan/RL2).
  
-[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJ1KiT3E3CHkitK-8XkwkeYKxup4GEJyV0SkLGZYQErzPnldBlEg2-H9TQ5J5s8C469VUrr_d909FGy-TM0ggoOTBa5Kl5IZZfzveAwzH0M36XHIe2e1XOypJvTv-2_00cE&user=1ml8-30AAAAJ) ｜ [GitHub](https://github.com/ChenmienTan) ｜ [Hugging Face](https://huggingface.co/ChenmieNLP) ｜ [Kaggle](https://www.kaggle.com/chenmientan) ｜ [X](https://twitter.com/ChenmienTan) ｜ [Zhihu](https://www.zhihu.com/people/tanchenmien)
+[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJ1KiT3E3CHkitK-8XkwkeYKxup4GEJyV0SkLGZYQErzPnldBlEg2-H9TQ5J5s8C469VUrr_d909FGy-TM0ggoOTBa5Kl5IZZfzveAwzH0M36XHIe2e1XOypJvTv-2_00cE&user=1ml8-30AAAAJ) ｜ [GitHub](https://github.com/ChenmienTan) ｜ [Hugging Face](https://huggingface.co/Chenmien) ｜ [Kaggle](https://www.kaggle.com/chenmientan) ｜ [X](https://twitter.com/ChenmienTan) ｜ [Zhihu](https://www.zhihu.com/people/tanchenmien)
 
 ## Publications
 
