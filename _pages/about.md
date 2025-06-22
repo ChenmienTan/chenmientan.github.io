@@ -8,31 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a (unqualified) programmer affiliated with Alibaba Group.
+I am an algorithm engineer affiliated with Alibaba Group.
 I obtained M.Res. in Informatics at the University of Edinburgh under the supervision of prof. [Shay Cohen](https://homepages.inf.ed.ac.uk/scohen/).
 Prior to that, I interned at the Hong Kong University of Science and Technology under the supervision of Dr. [Jie Fu](https://bigaidream.github.io/).
-My interest lies in training agentic, particularly DeepResearch, large language models (LLMs) by reinforcement learning (RL).
-I lead the development of [RL2](https://github.com/ChenmienTan/RL2).
+My interest lies in training agentic large language models (LLMs) by reinforcement learning (RL).
  
 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJ1KiT3E3CHkitK-8XkwkeYKxup4GEJyV0SkLGZYQErzPnldBlEg2-H9TQ5J5s8C469VUrr_d909FGy-TM0ggoOTBa5Kl5IZZfzveAwzH0M36XHIe2e1XOypJvTv-2_00cE&user=1ml8-30AAAAJ) ｜ [GitHub](https://github.com/ChenmienTan) ｜ [Hugging Face](https://huggingface.co/Chenmien) ｜ [Kaggle](https://www.kaggle.com/chenmientan) ｜ [X](https://twitter.com/ChenmienTan) ｜ [Zhihu](https://www.zhihu.com/people/tanchenmien)
 
-## Publications
+## Projects
 
-* [CHARM: Calibrating Reward Models with Chatbot Arena Scores](https://arxiv.org/abs/2504.10045)  
-Xiao Zhu, **Chenmien Tan**, Pinzhen Chen, Rico Sennrich, Yanlin Zhang, and Hanxu Hu  
-*Under Review*
+* [RL2: Ray Less Reinforcement Learning](https://github.com/ChenmienTan/RL2)  
+*Liked by Andrej Karpathy and reposted by Ying Sheng*
+
+## Selected Publications
 
 * [Massive Editing for Large Language Models via Meta Learning](https://arxiv.org/abs/2311.04661)  
 **Chenmien Tan**, Ge Zhang, and Jie Fu  
 *ICLR'24*
-
-* [Learning Rewards to Optimise Global Performance Metrics in Deep Reinforcement Learning](https://www.southampton.ac.uk/~eg/AAMAS2023/pdfs/p1951.pdf)  
-Junqi Qian, Paul Weng, and **Chenmien Tan**  
-*AAMAS'23*
-
-* [CVaR-Regret Bounds for Multi-Armed Bandits](https://proceedings.mlr.press/v189/tan23a/tan23a.pdf)  
-**Chenmien Tan** and Paul Weng  
-*ACML'22*
 
 ## Competitions
 
