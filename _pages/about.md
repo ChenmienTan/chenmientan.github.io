@@ -17,23 +17,23 @@ My interest lies in training agentic large language models (LLMs) by reinforceme
 
 ## Projects
 
-* [RL2: Ray Less Reinforcement Learning](https://github.com/ChenmienTan/RL2)  
-*Liked by Andrej Karpathy and reposted by Ying Sheng*
+* [RL2: Ray Less Reinforcement Learning](https://github.com/ChenmienTan/RL2)   
+![GitHub stars](https://img.shields.io/github/stars/ChenmienTan/RL2.svg?style=social)  *Liked by Andrej Karpathy* 
 
 ## Selected Publications
 
 * [Massive Editing for Large Language Models via Meta Learning](https://arxiv.org/abs/2311.04661)  
 **Chenmien Tan**, Ge Zhang, and Jie Fu  
-*ICLR'24*
+*[Top 10%](https://github.com/qianlanwyd/paper-citation-ranking/blob/master/iclr_2024_main_conference_citations_top_30%25.json) cited paper in ICLR'24*
 
-## Competitions
+<!-- ## Competitions
 
 * Learning Equality – Curriculum Recommendations  
 *Ranking: 17/1057 = 1.6%*
 * [Google AI4Code – Understand Code in Python Notebooks](https://www.kaggle.com/competitions/AI4Code/discussion/343603)  
 *Ranking: 25/1135 = 2.2%* 
 * [H&M Personalized Fashion Recommendations](https://github.com/Wp-Zhang/H-M-Fashion-RecSys)  
-*Ranking: 45/2952 = 1.5%*
+*Ranking: 45/2952 = 1.5%* -->
 
 ## Academic Services
 
