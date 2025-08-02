@@ -17,7 +17,7 @@ Prior to that, I interned at the Hong Kong University of Science and Technology 
 ## Projects
 
 * [RL2: Ray Less Reinforcement Learning](https://github.com/ChenmienTan/RL2)   
-![GitHub stars](https://img.shields.io/github/stars/ChenmienTan/RL2.svg?style=social)  *Liked by Andrej Karpathy* 
+![GitHub stars](https://img.shields.io/github/stars/ChenmienTan/RL2.svg?style=social)  *Liked by [Andrej Karpathy](https://scholar.google.com/citations?user=l8WuQJgAAAAJ&hl=en) and reposted by [Ying Sheng](https://scholar.google.com/citations?user=xMhGYpgAAAAJ&hl=en)* 
 
 ## Selected Publications
 
