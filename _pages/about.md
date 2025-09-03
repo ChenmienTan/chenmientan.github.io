@@ -37,7 +37,7 @@ I am also active on [X](https://twitter.com/ChenmienTan) and [Zhihu](https://www
 
 ## Academic Services
 
-* Reviewer: ICLR'25, ICML'24-25, NeurIPS'25
+* Reviewer: ICLR'25-26, ICML'24-25, NeurIPS'25
 * TA: [NLU+](http://www.drps.ed.ac.uk/23-24/dpt/cxinfr11157.htm) 23-24, [MLP](http://www.drps.ed.ac.uk/23-24/dpt/cxinfr11132.htm) 23-24
 
 <!-- ## Fun Facts -->
