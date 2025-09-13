@@ -22,8 +22,10 @@ I am also active on [X](https://twitter.com/ChenmienTan) and [Zhihu](https://www
 
 ## Selected Publications
 
+* GEM: A Gym for Generalist LLMs  
+*Under Review*
+
 * [Massive Editing for Large Language Models via Meta Learning](https://arxiv.org/abs/2311.04661)  
-**Chenmien Tan**, Ge Zhang, and Jie Fu  
 *[Top 10%](https://github.com/qianlanwyd/paper-citation-ranking/blob/master/iclr_2024_main_conference_citations_top_30%25.json) cited paper in ICLR'24*
 
 <!-- ## Competitions
