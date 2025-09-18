@@ -20,10 +20,9 @@ I am also active on [X](https://twitter.com/ChenmienTan) and [Zhihu](https://www
 * [RL2: Ray Less Reinforcement Learning](https://github.com/ChenmienTan/RL2)   
 ![GitHub stars](https://img.shields.io/github/stars/ChenmienTan/RL2.svg?style=social)  *Liked by [Andrej Karpathy](https://scholar.google.com/citations?user=l8WuQJgAAAAJ&hl=en) and reposted by [Ying Sheng](https://scholar.google.com/citations?user=xMhGYpgAAAAJ&hl=en)* 
 
-## Selected Publications
+* [GEM: A Gym for Generalist LLMs](https://github.com/axon-rl/gem)
 
-* GEM: A Gym for Generalist LLMs  
-*Under Review*
+## Selected Publications
 
 * [Massive Editing for Large Language Models via Meta Learning](https://arxiv.org/abs/2311.04661)  
 *[Top 10%](https://github.com/qianlanwyd/paper-citation-ranking/blob/master/iclr_2024_main_conference_citations_top_30%25.json) cited paper in ICLR'24*
