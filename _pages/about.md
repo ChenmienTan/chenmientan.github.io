@@ -12,8 +12,6 @@ I am an algorithm engineer affiliated with Alibaba Group.
 I obtained M.Res. in Informatics at the University of Edinburgh under the supervision of prof. [Shay Cohen](https://homepages.inf.ed.ac.uk/scohen/).
 Prior to that, I interned at the Hong Kong University of Science and Technology under the supervision of Dr. [Jie Fu](https://bigaidream.github.io/).
 Before that, I obtained B.Sc. in Applied Mathematics at the University of Nottingham Ningbo China.
-My full publications are available at [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJ1KiT3E3CHkitK-8XkwkeYKxup4GEJyV0SkLGZYQErzPnldBlEg2-H9TQ5J5s8C469VUrr_d909FGy-TM0ggoOTBa5Kl5IZZfzveAwzH0M36XHIe2e1XOypJvTv-2_00cE&user=1ml8-30AAAAJ).
-I am also active on [X](https://twitter.com/ChenmienTan) and [Zhihu](https://www.zhihu.com/people/tanchenmien).
 
 ## Projects
 
@@ -23,7 +21,7 @@ I am also active on [X](https://twitter.com/ChenmienTan) and [Zhihu](https://www
 * GEM: A Gym for Generalist LLMs [[Paper]](https://arxiv.org/pdf/2510.01051) [[Code]](https://github.com/axon-rl/gem)    
 ![GitHub stars](https://img.shields.io/github/stars/axon-rl/gem.svg?style=social) ***<font color=red>Oral</font>**@NeurIPS'24 [SEA](https://sea-workshop.github.io/) Workshop and **<font color=red>Spotlight</font>**@NeurIPS'24 [MTI-LLM](https://workshop-multi-turn-interaction.github.io/) Workshop*
 
-## Selected Publications
+## Selected Publications [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJ1KiT3E3CHkitK-8XkwkeYKxup4GEJyV0SkLGZYQErzPnldBlEg2-H9TQ5J5s8C469VUrr_d909FGy-TM0ggoOTBa5Kl5IZZfzveAwzH0M36XHIe2e1XOypJvTv-2_00cE&user=1ml8-30AAAAJ)
 
 * Massive Editing for Large Language Models via Meta Learning [[Paper]](https://arxiv.org/abs/2311.04661) [[Code]](https://github.com/ChenmienTan/malmen)  
 *[**<font color=red>Top 10%</font>**](https://github.com/qianlanwyd/paper-citation-ranking/blob/master/iclr_2024_main_conference_citations_top_30%25.json) cited paper in ICLR'24*
@@ -37,10 +35,10 @@ I am also active on [X](https://twitter.com/ChenmienTan) and [Zhihu](https://www
 * [H&M Personalized Fashion Recommendations](https://github.com/Wp-Zhang/H-M-Fashion-RecSys)  
 *Ranking: 45/2952 = 1.5%* -->
 
-## Academic Services
+<!-- ## Academic Services
 
 * Reviewer: ICLR'25-26, ICML'24-25, NeurIPS'25
-* TA: [NLU+](http://www.drps.ed.ac.uk/23-24/dpt/cxinfr11157.htm) 23-24, [MLP](http://www.drps.ed.ac.uk/23-24/dpt/cxinfr11132.htm) 23-24
+* TA: [NLU+](http://www.drps.ed.ac.uk/23-24/dpt/cxinfr11157.htm) 23-24, [MLP](http://www.drps.ed.ac.uk/23-24/dpt/cxinfr11132.htm) 23-24 -->
 
 <!-- ## Fun Facts -->
 <!-- 
@@ -49,9 +47,9 @@ I am also active on [X](https://twitter.com/ChenmienTan) and [Zhihu](https://www
 
 <!-- * I graduated from a [high school](https://en.wikipedia.org/wiki/Sichuan_Chengdu_Shishi_High_School) with a history over 2,160 years. -->
 
-## Acknowledgement
+<!-- ## Acknowledgement
 
 I am lucky to work with many enthusiastic, intelligent, and hardworking peers, such as [Yijun Yang](https://thomasyyj.github.io/yangyijun/)@Edinburgh, [Weipeng Zhang](https://github.com/Wp-Zhang)@Huawei, Jiahong Xie@SJTU, [Xun Zhao](https://github.com/CarnoZhao)@UCAS, Shengda Fan@RUC, [Ge Zhang](https://scholar.google.com/citations?user=qyTrq4kAAAAJ&hl=zh-CN)@ByteDance, [Hanxu Hu](https://hanxuhu.github.io)@UZH, and [Simon Yu](https://simon-yu.netlify.app)@NEU.
 I learnt a lot from them.
 Foremost, I thank [Chenxi Chen](https://2023.rca.ac.uk/students/chenxi-chen/) for her companionship.
-She is my greatest fortunate. 
+She is my greatest fortunate.  -->
