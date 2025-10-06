@@ -17,15 +17,18 @@ I am also active on [X](https://twitter.com/ChenmienTan) and [Zhihu](https://www
 
 ## Projects
 
-* [RL2: Ray Less Reinforcement Learning](https://github.com/ChenmienTan/RL2)   
-![GitHub stars](https://img.shields.io/github/stars/ChenmienTan/RL2.svg?style=social)  *Liked by [Andrej Karpathy](https://scholar.google.com/citations?user=l8WuQJgAAAAJ&hl=en) and reposted by [Ying Sheng](https://scholar.google.com/citations?user=xMhGYpgAAAAJ&hl=en)* 
+* RL2: Ray Less Reinforcement Learning  
+![GitHub stars](https://img.shields.io/github/stars/ChenmienTan/RL2.svg?style=social) [[Code]](https://github.com/ChenmienTan/RL2)    
+*Liked by [Andrej Karpathy](https://scholar.google.com/citations?user=l8WuQJgAAAAJ&hl=en) and reposted by [Ying Sheng](https://scholar.google.com/citations?user=xMhGYpgAAAAJ&hl=en)* 
 
-* [GEM: A Gym for Generalist LLMs](https://github.com/axon-rl/gem)  
-![GitHub stars](https://img.shields.io/github/stars/axon-rl/gem.svg?style=social)
+* GEM: A Gym for Generalist LLMs  
+![GitHub stars](https://img.shields.io/github/stars/axon-rl/gem.svg?style=social) [[Paper]](https://arxiv.org/pdf/2510.01051) [[Code]](https://github.com/axon-rl/gem)    
+*Oral@NeurIPS'24 [SEA](https://sea-workshop.github.io/) Workshop and Spotlight@NeurIPS'24 [MTI-LLM](https://workshop-multi-turn-interaction.github.io/) Workshop*
 
 ## Selected Publications
 
-* [Massive Editing for Large Language Models via Meta Learning](https://arxiv.org/abs/2311.04661)  
+* Massive Editing for Large Language Models via Meta Learning  
+[[Paper]](https://arxiv.org/abs/2311.04661) [[Code]](https://github.com/ChenmienTan/malmen)  
 *[Top 10%](https://github.com/qianlanwyd/paper-citation-ranking/blob/master/iclr_2024_main_conference_citations_top_30%25.json) cited paper in ICLR'24*
 
 <!-- ## Competitions
