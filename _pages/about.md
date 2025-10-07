@@ -18,7 +18,7 @@ Before that, I obtained B.Sc. in Applied Mathematics at the University of Nottin
 * RL2: Ray Less Reinforcement Learning  [[Code]](https://github.com/ChenmienTan/RL2)  
 ![GitHub stars](https://img.shields.io/github/stars/ChenmienTan/RL2.svg?style=social) *Liked by [Andrej Karpathy](https://scholar.google.com/citations?user=l8WuQJgAAAAJ&hl=en) and reposted by [Ying Sheng](https://scholar.google.com/citations?user=xMhGYpgAAAAJ&hl=en)* 
 
-* GEM: A Gym for Generalist LLMs [[Paper]](https://arxiv.org/pdf/2510.01051) [[Code]](https://github.com/axon-rl/gem)    
+* GEM: A Gym for Agentic LLMs [[Paper]](https://arxiv.org/pdf/2510.01051) [[Code]](https://github.com/axon-rl/gem)    
 ![GitHub stars](https://img.shields.io/github/stars/axon-rl/gem.svg?style=social) ***<font color=red>Oral</font>**@NeurIPS'24 [SEA](https://sea-workshop.github.io/) Workshop and **<font color=red>Spotlight</font>**@NeurIPS'24 [MTI-LLM](https://workshop-multi-turn-interaction.github.io/) Workshop*
 
 ## Selected Publications [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJ1KiT3E3CHkitK-8XkwkeYKxup4GEJyV0SkLGZYQErzPnldBlEg2-H9TQ5J5s8C469VUrr_d909FGy-TM0ggoOTBa5Kl5IZZfzveAwzH0M36XHIe2e1XOypJvTv-2_00cE&user=1ml8-30AAAAJ)
