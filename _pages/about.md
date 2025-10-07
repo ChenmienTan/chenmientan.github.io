@@ -23,7 +23,7 @@ Before that, I obtained B.Sc. in Applied Mathematics at the University of Nottin
 
 ## Selected Publications [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJ1KiT3E3CHkitK-8XkwkeYKxup4GEJyV0SkLGZYQErzPnldBlEg2-H9TQ5J5s8C469VUrr_d909FGy-TM0ggoOTBa5Kl5IZZfzveAwzH0M36XHIe2e1XOypJvTv-2_00cE&user=1ml8-30AAAAJ)
 
-* Massive Editing for Large Language Models via Meta Learning [[Paper]](https://arxiv.org/abs/2311.04661) [[Code]](https://github.com/ChenmienTan/malmen)  
+* Massive Editing for Large Language Models via Meta Learning [[Paper]](https://arxiv.org/pdf/2311.04661) [[Code]](https://github.com/ChenmienTan/malmen)  
 *[**<font color=red>Top 10%</font>**](https://github.com/qianlanwyd/paper-citation-ranking/blob/master/iclr_2024_main_conference_citations_top_30%25.json) cited paper in ICLR'24*
 
 <!-- ## Competitions
