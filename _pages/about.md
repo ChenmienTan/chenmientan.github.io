@@ -15,7 +15,7 @@ Before that, I obtained B.Sc. in Applied Mathematics at the University of Nottin
 
 ## Projects
 
-* RL2: Ray Less Reinforcement Learning  [[Code]](https://github.com/ChenmienTan/RL2)  
+* RL2: Ray Less Reinforcement Learning  [[Code]](https://github.com/ChenmienTan/RL2) [[Blog]](https://zhuanlan.zhihu.com/p/1959094134032830632)  
 ![GitHub stars](https://img.shields.io/github/stars/ChenmienTan/RL2.svg?style=social) *Liked by [Andrej Karpathy](https://scholar.google.com/citations?user=l8WuQJgAAAAJ&hl=en) and reposted by [Ying Sheng](https://scholar.google.com/citations?user=xMhGYpgAAAAJ&hl=en)* 
 
 * GEM: A Gym for Agentic LLMs [[Paper]](https://arxiv.org/pdf/2510.01051) [[Code]](https://github.com/axon-rl/gem)    
