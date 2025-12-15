@@ -24,5 +24,5 @@ Before that, I obtained B.Sc. in Applied Mathematics at the University of Nottin
 * [GEM: A Gym for Agentic LLMs](https://openreview.net/pdf?id=0Ylu01jcnu)  
 *Co-author, Oral in SEA Workshop of NeurIPS'25*
 
-* [Massive Editing for Large Language Models via Meta Learning](https://openreview.net/pdf?id=L6L1CJQ2PE)  
+* [MALMEN: Massive Editing for Large Language Models via Meta Learning](https://openreview.net/pdf?id=L6L1CJQ2PE)  
 *First author, >130 citations, top 10% cited in ICLR'24*
