@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 I am an algorithm engineer at Alibaba Group.
+I obtained M.Res. in Informatics at the University of Edinburgh advised by Prof. [Shay Cohen](https://scholar.google.com/citations?user=Q4oVM7IAAAAJ&hl=en).
+Prior to that, I interned at the Hong Kong University of Science and Technology advised by Dr. [Jie Fu](https://bigaidream.github.io/).
+Before that, I obtained B.Sc. in Applied Mathematics at the University of Nottingham Ningbo China.
 
 [CV](https://chenmientan.github.io/files/CV.pdf) \| [Google Scholar](https://scholar.google.com/citations?user=1ml8-30AAAAJ&hl=zh-CN) \| [GitHub](https://github.com/ChenmienTan) \| [Kaggle](https://www.kaggle.com/chenmientan) \| [Zhihu](https://www.zhihu.com/people/tanchenmien)
 
