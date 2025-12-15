@@ -9,7 +9,7 @@ redirect_from:
 
 I am an algorithm engineer at Alibaba Group.
 
-[CV](https://chenmientan.github.io/files/CV.pdf) | [Google Scholar](https://scholar.google.com/citations?user=1ml8-30AAAAJ&hl=zh-CN) | [GitHub](https://github.com/ChenmienTan) | [Kaggle](https://www.kaggle.com/chenmientan) | [Zhihu](https://www.zhihu.com/people/tanchenmien)
+[CV](https://chenmientan.github.io/files/CV.pdf) \| [Google Scholar](https://scholar.google.com/citations?user=1ml8-30AAAAJ&hl=zh-CN) \| [GitHub](https://github.com/ChenmienTan) \| [Kaggle](https://www.kaggle.com/chenmientan) \| [Zhihu](https://www.zhihu.com/people/tanchenmien)
 
 ## Projects
 
