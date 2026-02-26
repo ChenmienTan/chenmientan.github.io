@@ -21,7 +21,7 @@ I am a technical staff at Alibaba Group.
 * [GEM: A Gym for Agentic LLMs](https://openreview.net/pdf?id=0Ylu01jcnu)  
 *Co-author, ICLR'26 and Outstanding in SEA Workshop of NeurIPS'25*
 
-* [MALMEN: Massive Editing for Large Language Models via Meta Learning](https://openreview.net/pdf?id=L6L1CJQ2PE)  
+* [Massive Editing for Large Language Models via Meta Learning](https://openreview.net/pdf?id=L6L1CJQ2PE)  
 *First author, >150 citations, top 10% cited in ICLR'24*
 
 * [Learning Rewards to Optimize Global Performance Metrics in Deep RL](https://arxiv.org/pdf/2303.09027)  
