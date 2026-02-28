@@ -7,14 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a technical staff at Alibaba Group.
+I am an engineer at Alibaba Group.
 
-[CV](https://chenmientan.github.io/files/CV.pdf)&nbsp;&nbsp;\|&nbsp;&nbsp;[Google Scholar](https://scholar.google.com/citations?user=1ml8-30AAAAJ&hl=zh-CN)&nbsp;&nbsp;\|&nbsp;&nbsp;[GitHub](https://github.com/ChenmienTan)&nbsp;&nbsp;\|&nbsp;&nbsp;[Kaggle](https://www.kaggle.com/chenmientan)&nbsp;&nbsp;\|&nbsp;&nbsp;[Zhihu](https://www.zhihu.com/people/tanchenmien)
+<!-- [CV](https://chenmientan.github.io/files/CV.pdf)&nbsp;&nbsp;\|&nbsp;&nbsp; -->
+[Google Scholar](https://scholar.google.com/citations?user=1ml8-30AAAAJ&hl=zh-CN)&nbsp;&nbsp;\|&nbsp;&nbsp;[GitHub](https://github.com/ChenmienTan)&nbsp;&nbsp;\|&nbsp;&nbsp;[Kaggle](https://www.kaggle.com/chenmientan)&nbsp;&nbsp;\|&nbsp;&nbsp;[X](https://x.com/ChenmienTan)&nbsp;&nbsp;\|&nbsp;&nbsp;[Zhihu](https://www.zhihu.com/people/tanchenmien)
 
 ## Projects
 
 * [RL2: Ray Less Reinforcement Learning](https://github.com/ChenmienTan/RL2)  
-*Lead developer, >1.1K GitHub stars*
+*Primary developer, >1.1K GitHub stars*
 
 ## Publications
 
